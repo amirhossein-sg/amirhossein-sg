@@ -6,8 +6,8 @@ Master's Student at [Sharif University of Technology](http://www.sharif.edu/).</
 🐍 Python Coder</br>
 
 also:</br>
+- Experience working with *Django Rest Framework* and *ML*</br>
 - The first rank of the Computer Department (Yazd Uni)</br>
-- Experience working with *Django Rest Framework* and *Search Engine*</br>
 
 Finally, you can find me [here](https://www.linkedin.com/in/amirhossein-hasanzadeh/) ;)</br>
 
