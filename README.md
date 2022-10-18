@@ -6,7 +6,7 @@ I'm **Amir Hossien**,</br>
 Well, I've created a lot of `.py` files =)</br>
 
 also:</br>
-- Experience working with `Django`, `Django Rest Framework` and `ML`</br>
+- Experience working with `Django`, `DRF` and `ML`</br>
 - The *1st rank* of the Computer Department (Yazd Uni)</br>
 
 Finally, you can find me [here](https://www.linkedin.com/in/amirhossein-hasanzadeh/) ;)</br>
