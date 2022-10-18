@@ -1,13 +1,13 @@
 I'm **Amir Hossien**,</br>
-Master's Student at [Sharif University of Technology](http://www.sharif.edu/).</br>
+👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/).</br>
 </br>
-🍓 Software Engineer</br>
-👨🏻‍💻 Backend-Developer</br>
-🐍 Python Coder</br>
+🍭 Happy Software Engineer</br>
+⭐ Creative Programmer</br>
+Well, I've created a lot of .py files =)</br>
 
 also:</br>
-- Experience working with *Django Rest Framework* and *ML*</br>
-- The first rank of the Computer Department (Yazd Uni)</br>
+- Experience working with `Django`, `Django Rest Framework` and `ML`</br>
+- The *1st rank* of the Computer Department (Yazd Uni)</br>
 
 Finally, you can find me [here](https://www.linkedin.com/in/amirhossein-hasanzadeh/) ;)</br>
 
