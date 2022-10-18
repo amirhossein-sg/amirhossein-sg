@@ -1,6 +1,6 @@
 I'm **Amir Hossien**,</br>
-👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/).</br>
 </br>
+👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/)</br>
 🍭 Happy Software Engineer</br>
 ⭐ Creative Programmer</br>
 Well, I've created a lot of .py files =)</br>
