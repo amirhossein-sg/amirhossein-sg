@@ -1,15 +1,9 @@
 I'm **Amir Hossien**,</br>
 </br>
-👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/)</br>
-🍭 Happy Software Engineer</br>
-⭐ Creative Programmer</br>
-Well, I've created a lot of `.py` files =)</br>
-
-also:</br>
-- Experience working with `Django`, `DRF` and `ML`</br>
-- The *1st rank* of the Computer Department (Yazd Uni)</br>
-
-Finally, you can find me [here](https://www.linkedin.com/in/amirhossein-hasanzadeh/) ;)</br>
+👨🏻‍🎓 Master's Student at [Here](http://www.sharif.edu/)</br>
+👨🏻‍💻 Software Engineer</br>
+⭐ Python Programmer</br>
+Also, you can find me [here](https://www.linkedin.com/in/amirhossein-hasanzadeh/) ;)</br>
 
 <!---
 amirhossein-sg/amirhossein-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
