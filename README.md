@@ -3,7 +3,7 @@ I'm **Amir Hossien**,</br>
 👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/)</br>
 👨🏻‍💻 Software Engineer</br>
 ⭐ Python Programmer</br>
-[LinkedIn](https://www.linkedin.com/in/amirhossein-hasanzadeh/)</br>
+🖇️ [LinkedIn](https://www.linkedin.com/in/amirhossein-hasanzadeh/)</br>
 
 <!---
 amirhossein-sg/amirhossein-sg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
