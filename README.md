@@ -2,7 +2,7 @@ I'm **Amir Hossien**,</br>
 </br>
 👨🏻‍🎓 Master's Student at [Sharif University of Technology](http://www.sharif.edu/)</br>
 👨🏻‍💻 Software Engineer</br>
-⭐ Python Programmer</br>
+⭐ Python Developer</br>
 🖇️ [LinkedIn](https://www.linkedin.com/in/amirhossein-hasanzadeh/)</br>
 
 <!---
